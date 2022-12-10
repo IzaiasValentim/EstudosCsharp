@@ -1,0 +1,15 @@
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\BibliotaNoTerminal.csproj.AssemblyReference.cache
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\BibliotaNoTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\BibliotaNoTerminal.AssemblyInfoInputs.cache
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\BibliotaNoTerminal.AssemblyInfo.cs
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\BibliotaNoTerminal.csproj.CoreCompileInputs.cache
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\bin\Debug\net6.0\BibliotaNoTerminal.exe
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\bin\Debug\net6.0\BibliotaNoTerminal.deps.json
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\bin\Debug\net6.0\BibliotaNoTerminal.runtimeconfig.json
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\bin\Debug\net6.0\BibliotaNoTerminal.dll
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\bin\Debug\net6.0\BibliotaNoTerminal.pdb
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\BibliotaNoTerminal.dll
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\refint\BibliotaNoTerminal.dll
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\BibliotaNoTerminal.pdb
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\BibliotaNoTerminal.genruntimeconfig.cache
+C:\Users\IZAIAS VALENTIM\Desktop\BibliotaNoTerminal\obj\Debug\net6.0\ref\BibliotaNoTerminal.dll
